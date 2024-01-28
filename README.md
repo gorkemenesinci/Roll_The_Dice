@@ -6,7 +6,7 @@
 
 
 
-# Applaction Video Link:
+# Application Video Link:
 https://github.com/gorkemenes/Roll_The_Dice/assets/91761679/bcb25df0-9538-497b-bd53-48b23b5c3c2a
 
 
