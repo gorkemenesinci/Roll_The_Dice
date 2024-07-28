@@ -1,9 +1,11 @@
- *.dart linguist-detectable=true
- *.cmake linguist-detectable=false
- *.cpp linguist-detectable=false
- *.js linguist-detectable=false
- *.html linguist-detectable=false
- *.htm inguist-detectable=false
- *.c linguist-detectable=false
-* .txt linguist-detectable=false
-
+*.cmake linguist-vendored 
+CMakeLists.txt linguist-vendored
+*.cpp linguist-vendored
+*.hpp linguist-vendored
+*.cc linguist-vendored
+*.h linguist-vendored
+*.swift linguist-vendored
+*.dart linguist-language=Dart
+*.md linguist-documentation
+*.json linguist-vendored
+*.lock linguist-vendored
